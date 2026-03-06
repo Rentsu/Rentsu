@@ -1,16 +1,33 @@
-## Hi there 👋
+**👨‍💻 About Me
 
-<!--
-**Rentsu/Rentsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Welcome to my GitHub profile!
+I am a motivated student and aspiring developer who enjoys building projects and learning new technologies.
 
-Here are some ideas to get you started:
+💡 I focus on writing clean and efficient code while continuously improving my skills in software development and problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Always open to collaboration, new ideas, and learning opportunities.
+
+---
+
+🛠️ Tech Stack
+
+- 💻 Programming: JavaScript, Python (or change if you want to add your skills)
+- 🌐 Web Development: HTML, CSS, Basic Frontend Development
+- ⚙️ Tools: Git, GitHub, VS Code
+
+---
+
+📊 GitHub Stats
+
+⭐ Always improving and working on new projects.
+
+---
+
+📫 Connect With Me
+
+- GitHub: https://github.com/yourusername
+- Email: your@email.com
+
+---
+
+"Learning today, building tomorrow."
