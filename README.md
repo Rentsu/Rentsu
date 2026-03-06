@@ -11,7 +11,7 @@ I am a motivated student and aspiring developer who enjoys building projects and
 
 🛠️ Tech Stack
 
-- 💻 Programming: JavaScript, Python (or change if you want to add your skills)
+- 💻 Programming: JavaScript, Pyton, C++, Java
 - 🌐 Web Development: HTML, CSS, Basic Frontend Development
 - ⚙️ Tools: Git, GitHub, VS Code
 
@@ -25,8 +25,8 @@ I am a motivated student and aspiring developer who enjoys building projects and
 
 📫 Connect With Me
 
-- GitHub: https://github.com/yourusername
-- Email: your@email.com
+- GitHub: https://github.com/Rentsu
+- Email: renzjoseph636@gmail.com
 
 ---
 
